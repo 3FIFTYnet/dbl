@@ -1,3 +1,13 @@
+# ┌──────┐
+# │3fifty│  IP BLACKLIST from @jbenz
+# └──────┘
+#           https://github.com/3FIFTYnet/dbl
+#           https://raw.githubusercontent.com/3FIFTYnet/dbl/main/24subnet-ipbl.txt
+#
+#           IPs listed are based on known and verifiable abusive 
+#           and excessive network traffic from the listed subnets.
+# 
+# 
 1.117.71.0/24
 1.13.79.0/24
 1.15.148.0/24
