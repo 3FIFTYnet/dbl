@@ -2,7 +2,7 @@
 # │3fifty│  /24 SUBNET BLACKLIST from @jbenz
 # └──────┘
 #           https://github.com/3FIFTYnet/dbl
-#           https://raw.githubusercontent.com/3FIFTYnet/dbl/main/24subnet-ipbl.txt
+#           https://raw.githubusercontent.com/3FIFTYnet/dbl/main/abusive_subnet_24_blacklist.txt
 #
 #           Subnets listed are based on known and verifiable abusive 
 #           and excessive network traffic from the listed subnets.
