@@ -11,7 +11,7 @@
 
 ## IP Blacklist 
 > based on logged and verifiable abuse and/or attacks.
-#### [ipbl.txt](https://raw.githubusercontent.com/3FIFTYnet/dbl/main/ipbl.txt)
+#### [abusive_ips_blacklist.txt](https://raw.githubusercontent.com/3FIFTYnet/dbl/main/abusive_ips_blacklist.txt)
 
 ## Comprehensive IPv4 Network Blacklist 
 > based on logged and verifiable abuse and/or attacks.
