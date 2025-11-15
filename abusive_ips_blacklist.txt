@@ -2,7 +2,7 @@
 # │3fifty│  IP BLACKLIST from @jbenz
 # └──────┘
 #           https://github.com/3FIFTYnet/dbl
-#           https://raw.githubusercontent.com/3FIFTYnet/dbl/main/ipbl.txt
+#           https://raw.githubusercontent.com/3FIFTYnet/dbl/main/abusive_ips_blacklist.txt
 #
 #           IPs listed are based on known and verifiable abusive 
 #           and excessive network traffic from the listed addresses.
