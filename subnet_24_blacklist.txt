@@ -1,10 +1,10 @@
 # ┌──────┐
-# │3fifty│  IP BLACKLIST from @jbenz
+# │3fifty│  /24 SUBNET BLACKLIST from @jbenz
 # └──────┘
 #           https://github.com/3FIFTYnet/dbl
 #           https://raw.githubusercontent.com/3FIFTYnet/dbl/main/24subnet-ipbl.txt
 #
-#           IPs listed are based on known and verifiable abusive 
+#           Subnets listed are based on known and verifiable abusive 
 #           and excessive network traffic from the listed subnets.
 # 
 #           Nov 2025 Notice
