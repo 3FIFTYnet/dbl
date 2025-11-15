@@ -15,7 +15,7 @@
 
 ## Comprehensive IPv4 Network Blacklist 
 > based on logged and verifiable abuse and/or attacks.
-#### [networkblacklist.txt](https://raw.githubusercontent.com/3FIFTYnet/dbl/main/networkblacklist.txt)
+#### [abusive_subnet_24_blacklist.txt](https://raw.githubusercontent.com/3FIFTYnet/dbl/main/abusive_subnet_24_blacklist.txt)
 
 ## Domain Block List 
 > for use with Pi-Hole, AdGuard, AdGuardHome, etc.
